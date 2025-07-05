@@ -1,0 +1,10 @@
+user/login
+core/
+modules/
+sites/
+themes/
+CHANGELOG.txt
+install.php
+update.php
+admin/
+misc/

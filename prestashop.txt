@@ -1,0 +1,9 @@
+admin-dev/
+install-dev/
+themes/
+modules/
+translations/
+classes/
+config/
+pdf/
+readme_en.txt

@@ -1,0 +1,10 @@
+administrator/
+index.php
+components/
+modules/
+templates/
+media/
+language/
+robots.txt
+configuration.php
+README.txt

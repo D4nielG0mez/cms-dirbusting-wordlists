@@ -1,0 +1,10 @@
+admin/
+downloader/
+errors/
+js/
+lib/
+skin/
+var/
+index.php
+LICENSE.txt
+RELEASE_NOTES.txt
