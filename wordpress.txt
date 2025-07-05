@@ -1,0 +1,10 @@
+wp-admin/
+wp-login.php
+wp-content/
+wp-includes/
+xmlrpc.php
+readme.html
+license.txt
+wp-config.php
+wp-cron.php
+wp-json/
