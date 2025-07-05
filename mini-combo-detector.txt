@@ -1,0 +1,17 @@
+wp-login.php
+wp-admin/
+administrator/
+user/login
+admin/
+core/
+modules/
+wp-content/
+typo3/
+typo3conf/
+index.php
+readme.html
+README.txt
+xmlrpc.php
+robots.txt
+update.php
+CHANGELOG.txt
