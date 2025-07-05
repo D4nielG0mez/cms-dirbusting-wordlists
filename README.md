@@ -36,3 +36,6 @@ Detectar automáticamente la presencia de CMS comunes mediante rutas específica
    - `302 Found`: redirección útil (login, admin).
    - `403 Forbidden`: acceso denegado pero ruta válida.
 
+👁 https://github.com/fuzzdb-project/fuzzdb
+
+
